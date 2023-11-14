@@ -16,3 +16,9 @@ TensorFlow: Pembelajaran tentang TensorFlow, sebuah library yang powerful diguna
 Pembuatan Model dengan IBM Watson Studio: Praktik pembuatan model menggunakan IBM Watson Studio, dengan fokus pada pengembangan proyek machine learning.
 
 Materi-materi ini mencakup dasar-dasar machine learning, model-model populer, dan penerapan menggunakan library dan platform yang relevan seperti TensorFlow dan IBM Watson Studio.
+
+# Submission
+* mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
+
+
+Courses at Dicoding: https://www.dicoding.com/academies/184
